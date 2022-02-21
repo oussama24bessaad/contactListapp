@@ -1,0 +1,30 @@
+{
+  "name": "backendapp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "oussama",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "mongoose": "^6.0.13"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oussama24bessaad/BackendApp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/oussama24bessaad/BackendApp/issues"
+  },
+  "homepage": "https://github.com/oussama24bessaad/BackendApp#readme",
+  "description": ""
+}
